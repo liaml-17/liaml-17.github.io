@@ -348,6 +348,10 @@ h6, .h6 {
   font-weight: 300;
   line-height: 1.2; }
 
+.dev-icons{
+  font-size: 3rem;
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
